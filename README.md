@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevPastey/DevPastey/main/assets/banner.svg" alt="DevPastey banner" />
 </p>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
