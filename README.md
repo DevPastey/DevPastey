@@ -31,22 +31,10 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPastey&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPastey&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPastey&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPastey&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPastey&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPastey&layout=compact&theme=tokyonight" alt="languages" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPastey/DevPastey/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPastey/DevPastey/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DevPastey/DevPastey/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ### 📈 Activity Graph
