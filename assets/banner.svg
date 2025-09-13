@@ -16,7 +16,7 @@
         50% { opacity: 1; transform: translateX(6px); }
         100% { opacity: .85; transform: translateX(0px); }
       }
-      .tech { font: 400 14px 'Segoe UI', Roboto, system-ui; fill: rgba(255,255,255,0.9); }
+      .tech { font: 400 14px 'Segoe UI', Roboto, system-ui; fill: rgba(255,255,255,0.9); margin-bottom: 45px; }
     </style>
   </defs>
 
