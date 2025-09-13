@@ -11,7 +11,7 @@
 ### 🔥 About Me
 - 💡 Turning ideas into **scalable applications**  
 - 💻 Working with **React, TypeScript, Next.js, Node.js, and MongoDB**  
-- 🌱 Currently improving my **UI/UX skills** with Tailwind CSS  
+- 🌱 Currently improving my **UI/UX skills** Shadcn and Aceternity UI  
 - 🤝 Open to collaboration on **innovative projects**  
 
 ---
