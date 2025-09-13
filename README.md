@@ -1,6 +1,3 @@
-<h1 align="center">Hey there, I'm <span style="color:#4FC3F7">DevPastey</span> 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | Building Modern, Scalable, and User-Focused Apps</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevPastey/DevPastey/main/assets/banner.svg" alt="DevPastey banner" />
 </p>
